@@ -17,6 +17,7 @@
 @import "screens/more.css";
 @import "screens/settings.css";
 @import "screens/chat.css";
+@import "screens/Recommended-Friends.css";
 
 body {
   font-family: "MuseoModerno", cursive;
